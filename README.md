@@ -1,0 +1,2 @@
+# SwallowEditorProject
+燕が飛ぶが如くコーディングが出来る、SwallowEditorを開発しています。
