@@ -1,2 +1,4 @@
 # SwallowEditorProject
 燕が飛ぶが如くコーディングが出来る、SwallowEditorを開発しています。
+Developer: @sakadayo
+VisualStudioCodeを超す程のエディタをVisualStudioCodeで作ります。
