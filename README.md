@@ -1,2 +1,3 @@
 # SwallowEditorProject
 燕が飛ぶが如くコーディングが出来る、SwallowEditorを開発しています。
+VisualStudioCodeで開発中。やがてはVisaulStudioCodeを超す。それ以外も超す。
